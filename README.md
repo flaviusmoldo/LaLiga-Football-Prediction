@@ -71,4 +71,4 @@ Place `Football_LaLiga_DataSets_From0506.xlsx` in the project root and run `LaLi
 
 ## Author
 
-Moldovan Flavius Cosmin — Technical University of Cluj-Napoca, Intelligent Systems Course
+Moldovan Flavius Cosmin — Technical University of Cluj-Napoca, Machine Learning Project
